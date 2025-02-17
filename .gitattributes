@@ -1,0 +1,20 @@
+# Treat Python files as text
+*.py text eol=lf
+
+# Ensure Jupyter Notebooks are stored correctly
+*.ipynb filter=nbstripout
+
+# Set CSV files as text (useful for tracking dataset changes)
+*.csv text
+
+# Ignore large binary files from diffs
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.mp4 binary
+*.zip binary
+*.tar.gz binary
+
+# Ensure UTF-8 encoding
+* text=auto
