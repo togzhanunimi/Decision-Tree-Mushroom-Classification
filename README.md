@@ -19,3 +19,5 @@ Tree predictors for binary classification.pdf: Detailed report on implementation
 Code
 
 mushroom_classification.ipynb: Jupyter Notebook with full training, evaluation, and visualization.
+
+mushroom_classification.py :  Custom implementation of the decision tree classifier
