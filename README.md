@@ -12,7 +12,7 @@ Contents
 
 Report
 
-Decision_Tree_Classification.pdf: Detailed report on implementation, evaluation, and results.
+Tree predictors for binary classification.pdf: Detailed report on implementation, evaluation, and results.
 
 Code
 
