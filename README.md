@@ -1,6 +1,6 @@
 Project 2: Tree predictors for binary classification
 
-This project is part of the Machine and Statistical Learning course of the DSE program at the University of Milan (UNIMI).  Detailed instructions for this project can be found here.  
+This project is part of the Machine and Statistical Learning course of the DSE program at the University of Milan (UNIMI).  Detailed instructions for this project can be found [here](https://archive.ics.uci.edu/dataset/848/secondary+mushroom+dataset).  
 Student: Togzhan Seitzhagyparova
 Professor: Nicolò Cesa Bianchi
 
